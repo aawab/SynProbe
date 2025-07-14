@@ -1,6 +1,4 @@
 Aawab Mahmood
-113472709
-CSE508 HW4
 Network Scanning and Fingerprinting
 
 No external libraries used
